@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\VampireHunterScript\CameraFollowScript.cs" />
      <Compile Include="Assets\VampireHunterScript\EnemyScript.cs" />
+     <Compile Include="Assets\VampireHunterScript\NextStageScript.cs" />
      <Compile Include="Assets\VampireHunterScript\ParallaxScript.cs" />
      <Compile Include="Assets\VampireHunterScript\PlayerScript.cs" />
      <Compile Include="Assets\VampireHunterScript\UIHealthScript.cs" />
